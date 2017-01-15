@@ -10,18 +10,27 @@ h2 {
 }
 body {
 	background-color:#f9e6ba;
-}
-.container {
-	background-color:#fcf2dc 
-}
-img {
-	width: 450px;
-	height: 600px;
-	display: block;
-    margin: auto;
+	font-family: 'Tangerine', serif;
+	font-size: 45px;
 }
 .mySlides {
 	display: none;
+}
+footer {
+	background-color:#936b0e;
+	font-family: 'Tangerine', serif;
+	font-size: 30px;
+}
+a {
+	font-family: 'Tangerine', serif;
+	font-size: 35px;
+	margin-left: 25px;
+}
+.w3-btn {
+	text-align: center;
+	font-family: 'Tangerine', serif;
+	font-size: 30px;
+	background-color:#ecb535;
 }
 .w3-theme-l5 {color:#000 !important; background-color:#fefbf5 !important}
 .w3-theme-l4 {color:#000 !important; background-color:#fcf2dc !important}
