@@ -2,19 +2,11 @@ h1 {
 	font-family: 'Tangerine', serif; 
 	font-size: 90px;
 	text-align: center;
-	border:2px black solid;
-	border-right-width:300px;
-	border-left-width:300px;
-	border-color:#034f84;
 }
 h2 {
 	font-family: 'Tangerine', serif; 
 	font-size: 85px;
 	text-align: center;
-	border:2px black solid;
-	border-right-width:300px;
-	border-left-width:300px;
-	border-color:#034f84;
 }
 body {
 	background-color:#e9f5ff;
@@ -34,7 +26,7 @@ footer {
 }
 a {
 	font-family: 'Times New Roman', serif;
-	font-size: 20px;
+	font-size: 21px;
 	margin-left: 25px;
 }
 .w3-btn {
